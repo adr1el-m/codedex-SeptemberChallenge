@@ -4,6 +4,26 @@ Welcome to **Fireside September**, a cozy and cute application designed to bring
 
 ![Fireside September App Icon](assets/icon/icon.png)
 
+## 📸 Screenshots
+
+> A peek into the cozy corners of Fireside September.
+
+<div align="center">
+
+### September Trivia & Facts
+<img src="assets/img/September Trivia & Facts.png" alt="September Trivia & Facts" width="600" />
+
+### Honey Hazel & Autumn Bucket List
+<img src="assets/img/Honey Hazel and Autumn Bucket List.png" alt="Honey Hazel and Autumn Bucket List" width="600" />
+
+### Cozy Focus Time (Pomodoro)
+<img src="assets/img/Cozy Focus Time.png" alt="Cozy Focus Time (Pomodoro)" width="600" />
+
+### Cozy Fireplace
+<img src="assets/img/Cozy Fireplace.png" alt="Cozy Fireplace" width="600" />
+
+</div>
+
 ## 🍂 About the App
 
 As the leaves turn to gold and the air gets a little crisper, *Fireside September* offers a digital sanctuary to relax, focus, and embrace the autumn vibes. Whether you want to study by a crackling fireplace, unwind to the sound of gentle rain, or simply enjoy a moment of peace, this app is your perfect companion.
