@@ -11,16 +11,16 @@ Welcome to **Fireside September**, a cozy and cute application designed to bring
 <div align="center">
 
 ### September Trivia & Facts
-<img src="assets/img/September Trivia & Facts.png" alt="September Trivia & Facts" width="600" />
+<img src="assets/img/September-Trivia-&-Facts.png" alt="September Trivia & Facts" width="600" />
 
 ### Honey Hazel & Autumn Bucket List
-<img src="assets/img/Honey Hazel and Autumn Bucket List.png" alt="Honey Hazel and Autumn Bucket List" width="600" />
+<img src="assets/img/Honey-Hazel-and-Autumn-Bucket-List.png" alt="Honey Hazel and Autumn Bucket List" width="600" />
 
 ### Cozy Focus Time (Pomodoro)
-<img src="assets/img/Cozy Focus Time.png" alt="Cozy Focus Time (Pomodoro)" width="600" />
+<img src="assets/img/Cozy-Focus-Time.png" alt="Cozy Focus Time (Pomodoro)" width="600" />
 
 ### Cozy Fireplace
-<img src="assets/img/Cozy Fireplace.png" alt="Cozy Fireplace" width="600" />
+<img src="assets/img/Cozy-Fireplace.png" alt="Cozy Fireplace" width="600" />
 
 </div>
 
