@@ -1,0 +1,17 @@
+// Configuration file template for API keys and secrets
+// Copy this file to config.dart and add your real API keys
+
+class Config {
+  // Get your Gemini API key from: https://makersuite.google.com/app/apikey
+  static const String geminiApiKey = 'YOUR_GEMINI_API_KEY_HERE';
+  
+  // You can add other API keys here as needed
+  // static const String openWeatherApiKey = 'YOUR_OPENWEATHER_API_KEY_HERE';
+}
+
+/*
+Setup Instructions:
+1. Copy this file to config.dart
+2. Replace 'YOUR_GEMINI_API_KEY_HERE' with your actual Gemini API key
+3. The config.dart file is in .gitignore so your keys won't be committed
+*/
