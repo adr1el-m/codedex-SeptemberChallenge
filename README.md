@@ -1,6 +1,6 @@
 # 🔥 Fireside September 🔥
 
-Welcome to **Fireside September**, a cozy and cute application designed to bring the warmth and comfort of autumn right to your screen. This app was created as a special project for the **Codecademy September Monthly Challenge**, with a little help from my AI pair programmer, **GitHub Copilot**.
+Welcome to **Fireside September**, a cozy and cute application designed to bring the warmth and comfort of autumn right to your screen. This app was created as a special project for the **Codedex September Monthly Challenge**, with a little help from my AI pair programmer, **GitHub Copilot**.
 
 ![Fireside September App Icon](assets/icon/icon.png)
 
